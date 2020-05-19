@@ -1,5 +1,13 @@
 # TP Backend 2020
 
+## Integrantes del grupo
+
+Legajo|Nombre|Email|
+|:-|:-|:-|
+|44823|Acciarri, Joshua|acciarrijoshua@gmail.com|
+|44852|Antonelli, Nicolás|niconelli2@gmail.com|
+|44704|Recalde, Alejandro|alejandrorecalde5@gmail.com|
+
 ## 1 - Enunciado
 
 ### 1.1 - Desarrollo
